@@ -1,4 +1,4 @@
-# Awesome Amber-Lang projects
+# Awesome Amber-Lang projects  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amber-lang/awesome-amberlang)
 <div align="center">
     <img src="https://github.com/amber-lang/amber/blob/staging/assets/amber.png" alt="amber logo" width="250" />
 </div>
