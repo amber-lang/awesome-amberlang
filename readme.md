@@ -20,6 +20,7 @@ We look for projects with a Readme!
 
 * [krissh-wtf/amber-httpclient](https://github.com/krissh-wtf/amber-httpclient) - a POSIX-compliant http client library for bash/amber without using external dependencies (curl, wget, netcat, etc...)
 * [LSP-Installer](https://github.com/Mte90/My-Scripts/tree/master/dev/lsp-installer) - A simple way to install various LSP and testing various Amber features.
+* [zlfn/xylitol](https://github.com/zlfn/xylitol) - Add freshness to your shell scripts. 
 
 ## Collections
 
