@@ -20,9 +20,13 @@ We look for projects with a Readme!
 
 * [krissh-wtf/amber-httpclient](https://github.com/krissh-wtf/amber-httpclient) - a POSIX-compliant http client library for bash/amber without using external dependencies (curl, wget, netcat, etc...)
 * [LSP-Installer](https://github.com/Mte90/My-Scripts/tree/master/dev/lsp-installer) - A simple way to install various LSP and testing various Amber features.
-* [zlfn/xylitol](https://github.com/zlfn/xylitol) - Add freshness to your shell scripts. 
+* [zlfn/xylitol](https://github.com/zlfn/xylitol) - Add freshness to your shell scripts.
 
 ## Collections
 
 * [UrbanCoffee/amber-projects](https://github.com/UrbanCoffee/amber-projects) - A collection of scripts and programs in the Amber programming language.
 * [rbtylee/AmberResources](https://github.com/rbtylee/AmberResources) - A collection of Amber libraries and other resources.
+
+## Games
+
+* [macioszektv/tictactoe-amber](https://github.com/MacioSzekTV/TicTacToe-Amber/) - A simple Tic-Tac-Toe game implemented in the Amber programming language.
